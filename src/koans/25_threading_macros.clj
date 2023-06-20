@@ -1,5 +1,5 @@
 (ns koans.25-threading-macros
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (def a-list
   '(1 2 3 4 5))

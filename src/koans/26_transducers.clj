@@ -1,5 +1,5 @@
 (ns koans.26-transducers
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (def example-transducer
   (map inc))

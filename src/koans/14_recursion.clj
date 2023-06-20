@@ -1,5 +1,5 @@
 (ns koans.14-recursion
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defn is-even? [n]
   (if (= n 0)

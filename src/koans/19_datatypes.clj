@@ -1,5 +1,5 @@
 (ns koans.19-datatypes
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defrecord Nobel [prize])
 (deftype Pulitzer [prize])

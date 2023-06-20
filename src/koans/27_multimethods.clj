@@ -1,5 +1,5 @@
 (ns koans.27-multimethods
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defmulti multimethod-without-args
  (fn [keyword-arg] keyword-arg))

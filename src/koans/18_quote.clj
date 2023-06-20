@@ -1,5 +1,5 @@
 (ns koans.18-quote
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 
 (meditations

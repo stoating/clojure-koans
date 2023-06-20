@@ -1,5 +1,5 @@
 (ns koans.24-macros
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defmacro hello [x]
   (str "Hello, " x))

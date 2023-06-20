@@ -1,5 +1,5 @@
 (ns koans.09-higher-order-functions
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (meditations
   "The map function relates a sequence to another"

@@ -1,5 +1,5 @@
 (ns koans.02-strings
-  (:require [koan-engine.core :refer :all]
+  (:require [koan-engine.core :refer [meditations]]
             [clojure.string :as string]))
 
 (meditations

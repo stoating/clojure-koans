@@ -1,5 +1,5 @@
 (ns koans.13-creating-functions
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defn square [x] (* x x))
 

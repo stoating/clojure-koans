@@ -1,5 +1,5 @@
 (ns koans.20-java-interop
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (meditations
   "You may have done more with Java than you know"

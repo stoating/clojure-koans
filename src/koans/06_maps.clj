@@ -1,5 +1,5 @@
 (ns koans.06-maps
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (meditations
   "Don't get lost when creating a map"

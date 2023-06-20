@@ -1,5 +1,5 @@
 (ns koans.23-meta
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (def giants
   (with-meta 'Giants

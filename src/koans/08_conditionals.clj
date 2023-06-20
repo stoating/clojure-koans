@@ -1,5 +1,5 @@
 (ns koans.08-conditionals
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defn explain-exercise-velocity [exercise-term]
   (case exercise-term

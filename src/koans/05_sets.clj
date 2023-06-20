@@ -1,5 +1,5 @@
 (ns koans.05-sets
-  (:require [koan-engine.core :refer :all]
+  (:require [koan-engine.core :refer [meditations]l]
             [clojure.set :as set]))
 
 (meditations

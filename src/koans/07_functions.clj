@@ -1,5 +1,5 @@
 (ns koans.07-functions
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defn multiply-by-ten [n]
   (* 10 n))

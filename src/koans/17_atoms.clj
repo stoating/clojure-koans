@@ -1,5 +1,5 @@
 (ns koans.17-atoms
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (def atomic-clock (atom 0))
 

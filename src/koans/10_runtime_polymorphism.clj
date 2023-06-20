@@ -1,5 +1,5 @@
 (ns koans.10-runtime-polymorphism
-  (:require [koan-engine.core :refer :all]))
+  (:require [koan-engine.core :refer [meditations]]))
 
 (defn hello
   ([] "Hello World!")
